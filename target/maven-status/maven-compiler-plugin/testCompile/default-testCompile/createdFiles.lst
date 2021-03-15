@@ -1,0 +1,4 @@
+com\simplegoogle\pom\SearchPage.class
+com\simplegoogle\stepdefinition\StepDefinition.class
+com\simplegooglearning\com\GoogleLogin.class
+com\simplegoogle\runner\Runner.class
